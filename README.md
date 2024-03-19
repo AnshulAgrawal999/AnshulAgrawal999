@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋, I'm Anshul Agrawal
 
-<!--
-**AnshulAgrawal999/AnshulAgrawal999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Anshul Agrawal
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Web developer skilled in MERN stack. I'm always excited to learn new things 😃. My key focus is always on writing clear, clean and efficient code ✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 I'm based in
+Jabalpur, Madhya Pradesh
+
+## ⚛️ Technologies I love to work with
+MERN stack (MongoDB, Express.js, React, NodeJS)
+
+## 😃 I'm also interested in
+AI, Machine Learning, Cybersecurity, Blockchain technology & IOT
+
+## 📫 How to reach me
+Email - anshulagr799@gmail.com
+
+## 💼 Portfolio
+https://anshulagrawal999.github.io/
+
+## 🌐 Socials
+LinkedIn - https://www.linkedin.com/in/anshul-agrawal-403724209/
+
+## 💻 Tech Stack
+HTML5, CSS3, JavaScript, MongoDB, Express.js, React, NodeJS, Redux, Netlify, Heroku, Postman
+
+## 📊 GitHub Stats
+[Your GitHub stats here]
