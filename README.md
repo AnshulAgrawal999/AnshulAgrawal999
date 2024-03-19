@@ -13,7 +13,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack. I'm always exci
 ### 💼 Portfolio https://anshulagrawal999.github.io/
 
 ## 🌐 Socials
-LinkedIn - https://www.linkedin.com/in/anshul-agrawal-403724209/
+LinkedIn - [https://www.linkedin.com/in/anshul-agrawal-403724209/]
 
 ## 💻 Tech Stack
 HTML5, CSS3, JavaScript, MongoDB, Express.js, React, NodeJS, Redux, Netlify, Heroku, Postman
