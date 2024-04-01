@@ -2,18 +2,17 @@
 
 <h3 align="center"> A passionate Full Stack Web developer skilled in MERN stack</h3>
 
-- 🌍 I'm based in Jabalpur, Madhya Pradesh
+- 🌍 I'm based in **Jabalpur, Madhya Pradesh**
 
 - 🌱 I’m currently learning **React, Redux & DSA**
  
-- ⚡ I'm also interested in AI, Machine Learning, Cybersecurity, Blockchain technology & IOT
+- ⚡ I'm also interested in **AI, Machine Learning, Cybersecurity, Blockchain technology & IOT**
 
 - 💼 Portfolio - **https://anshulagrawal999.github.io/**
 
 - 📫 Email - **anshulagr799@gmail.com**
 
-## 🌐 Socials
-LinkedIn - https://www.linkedin.com/in/anshul-agrawal-403724209/
+- LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
 ## 💻 Tech Stack
 HTML5, CSS3, JavaScript, MongoDB, Express.js, React, NodeJS, Redux, Netlify, Heroku, Postman
