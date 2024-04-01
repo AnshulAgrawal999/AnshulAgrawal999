@@ -26,7 +26,7 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" width="40" height="40"/> </a> 
 </p>
 
-## 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
 https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999
 https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulAgrawal999&langs_count=4&theme=city_light&include_all_commits=true&count_private=true&layout=compact
 https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&ring=5094f0&currStreakLabel=5094f0&fire=5094f0&theme=city_light
