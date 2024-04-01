@@ -1,6 +1,9 @@
-# Hi there 👋, I'm Anshul Agrawal
+# Hi 👋, I'm Anshul Agrawal
 
-I'm a passionate Full Stack Web developer skilled in MERN stack. I'm always excited to learn new things 😃. My key focus is always on writing clear, clean and efficient code ✨.
+<h1 align="center">Hi 👋, I'm Mihir Soni</h1>
+
+<h3 align="center"> I'm a passionate Full Stack Web developer skilled in MERN stack. I'm always excited to learn new things 😃. My key focus is always on writing clear, clean and efficient code ✨. </h3>
+
 
 ### 🌍 I'm based in Jabalpur, Madhya Pradesh
 
