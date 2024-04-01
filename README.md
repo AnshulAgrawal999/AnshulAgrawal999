@@ -12,7 +12,7 @@
 
 - 📫 Email - **anshulagr799@gmail.com**
 
-- LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
+- 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
 ## 💻 Tech Stack
 HTML5, CSS3, JavaScript, MongoDB, Express.js, React, NodeJS, Redux, Netlify, Heroku, Postman
