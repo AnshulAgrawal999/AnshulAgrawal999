@@ -1,26 +1,16 @@
 <h1 align="center"> Hi 👋, I'm Anshul Agrawal </h1>
 
-<h3 align="center"> I'm a passionate Full Stack Web developer skilled in MERN stack</h3>
+<h3 align="center"> A passionate Full Stack Web developer skilled in MERN stack</h3>
 
 - 🌍 I'm based in Jabalpur, Madhya Pradesh
 
 - 🌱 I’m currently learning **React, Redux & DSA**
-
-- 📫 Email - anshulagr799@gmail.com
  
-- ⚡ Fun fact **I think I am funny**
+- ⚡ I'm also interested in AI, Machine Learning, Cybersecurity, Blockchain technology & IOT
 
-<h3 align="left">Connect with me:</h3>
+- 💼 Portfolio - **https://anshulagrawal999.github.io/**
 
-### 🌍 I'm based in Jabalpur, Madhya Pradesh
-
-### 👨‍💻 Technologies I love to work with - MERN stack (MongoDB, Express.js, React, NodeJS)
-
-### 😃 I'm also interested in AI, Machine Learning, Cybersecurity, Blockchain technology & IOT
-
-### 📫 How to reach me Email - anshulagr799@gmail.com
-
-### 💼 Portfolio https://anshulagrawal999.github.io/
+- 📫 Email - **anshulagr799@gmail.com**
 
 ## 🌐 Socials
 LinkedIn - https://www.linkedin.com/in/anshul-agrawal-403724209/
