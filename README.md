@@ -1,10 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Anshul Agrawal </h1>
 
-<h3 align="center"> A passionate Full Stack Web developer skilled in MERN stack</h3>
+<h3 align="center"> A passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
+applications and RESTful APIs. Strong problem-solving abilities and attention to detail. Excellent communicator and collaborator, eager to contribute to a dynamic working environment. ✨</h3>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
 
-- 🌱 I’m currently learning **React, Redux & DSA**
+- 🌱 I’m currently learning **React & DSA**
  
 - ⚡ I'm also interested in **AI, Machine Learning, Cybersecurity, Blockchain technology & IOT**
 
@@ -14,24 +15,23 @@
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
-<h3 align="left">Tech Stack</h3>
-<p align="left"> 
- <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css-logo-6563485-5453030.png?f=webp" alt="css3" width="40" height="40"/> 
- <img src="https://static.vecteezy.com/system/resources/previews/012/697/299/original/stylized-3d-html-logo-design-free-png.png" alt="html5" width="40" height="40"/> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="react" width="40" height="40"/> </a>  
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="ExpressJs" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB" width="40" height="40"/> </a> 
-</p>
+### 💻 Tech Stack
 
-<h3 align="left">📊 GitHub Stats</h3>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact" alt="AnshulAgrawal999" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en" alt="AnshulAgrawal999" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en" alt="AnshulAgrawal999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&" alt="AnshulAgrawal999" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact" alt="AnshulAgrawal999" /></p>
 
 
