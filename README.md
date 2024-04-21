@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Anshul Agrawal </h1>
 
-<h3 align="center"> A passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
-applications and RESTful APIs. Strong problem-solving abilities and attention to detail. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.</h3>
+<h4 align="center"> A passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
+applications and RESTful APIs. Strong problem-solving abilities with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</h4>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
 
