@@ -5,7 +5,7 @@ applications and RESTful APIs. Strong problem-solving abilities with a solid fou
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
 
-- 🌱 I’m currently learning **React & DSA**
+- 🌱 I’m currently learning **DSA**
  
 - ⚡ I'm also interested in **AI, Machine Learning, Cybersecurity, Blockchain technology & IOT**
 
