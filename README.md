@@ -15,7 +15,7 @@ applications and RESTful APIs. Strong problem-solving abilities along with a sol
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
-<h2 align="left">⚡Tech Stack</h2>
+<h2 align="left"> 💻 Tech Stack</h2>
 <table align="center">
   <tbody>
    <tr valign="top">
@@ -109,13 +109,13 @@ applications and RESTful APIs. Strong problem-solving abilities along with a sol
   </tbody>
 </table>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en" alt="AnshulAgrawal999" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en" alt="AnshulAgrawal999" style="height: 170px;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&" alt="AnshulAgrawal999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&" alt="AnshulAgrawal999" style="height: 170px;" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact" alt="AnshulAgrawal999" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact" alt="AnshulAgrawal999" style="height: 170px;" /></p>
 
 
 
