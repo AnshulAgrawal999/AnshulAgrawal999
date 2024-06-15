@@ -66,6 +66,12 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
           <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
         </a>
       </td>
+     <td width="25%" align="center">
+        <a href="https://redux.js.org/">
+          <span>React</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
