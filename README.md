@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Anshul Agrawal </h1>
 
 <p align="center" >Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
-applications and RESTful APIs. Strong problem-solving abilities along with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</p>
+applications and RESTful APIs. Strong problem-solving skills along with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
 
@@ -111,11 +111,11 @@ applications and RESTful APIs. Strong problem-solving abilities along with a sol
 
 ## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en" alt="AnshulAgrawal999" style="height: 170px;" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en&theme=react" alt="AnshulAgrawal999" style="height: 160px;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&" alt="AnshulAgrawal999" style="height: 170px;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&theme=react" alt="AnshulAgrawal999" style="height: 160px;" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact" alt="AnshulAgrawal999" style="height: 170px;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=react" alt="AnshulAgrawal999" style="height: 160px;" /></p>
 
 
 
