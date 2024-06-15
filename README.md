@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Anshul Agrawal </h1>
 
-<h4 align="center">Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
-applications and RESTful APIs. Strong problem-solving abilities along with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</h4>
+<p align="center" >Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
+applications and RESTful APIs. Strong problem-solving abilities along with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
 
@@ -15,16 +15,99 @@ applications and RESTful APIs. Strong problem-solving abilities along with a sol
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
-### 💻 Tech Stack
+<h2 align="left">⚡Tech Stack</h2>
+<table align="center">
+  <tbody>
+   <tr valign="top">
+    <td width="25%" align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <span>JavaScript</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://nodejs.org/">
+          <span>Node.js</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Express</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/express.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://www.mongodb.org/">
+          <span>MongoDB</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
+        </a>
+      </td>
+    </tr> 
+    <tr>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.w3.org/html/">
+          <span>HTML5</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5 Logo"
+          />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="http://www.w3.org/TR/CSS/">
+          <span>CSS</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a href="https://react.dev/">
+          <span>React</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/react.svg" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+<h2 align="left">🛠️ Tech Tools</h2>
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
+          <span>Git</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/git-icon.svg"
+          />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://code.visualstudio.com/">
+          <span>VS Code</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
+          <span>Netlify</span><br /><br />
+          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <a style="font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
+          <span>Postman</span><br /><br />
+          <img
+            height="64px"
+            src="https://cdn.svgporn.com/logos/postman-icon.svg"
+          />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📊 GitHub Stats
 
@@ -33,5 +116,6 @@ applications and RESTful APIs. Strong problem-solving abilities along with a sol
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&" alt="AnshulAgrawal999" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact" alt="AnshulAgrawal999" /></p>
+
 
 
