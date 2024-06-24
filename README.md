@@ -9,9 +9,9 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
  
 - ⚡ I'm also interested in **AI, Machine Learning, Cybersecurity, Blockchain technology & IOT**
 
-- 💼 Portfolio - **https://anshulagrawal999.github.io/**
+- 📧 Email - **anshulagr799@gmail.com**
 
-- 📫 Email - **anshulagr799@gmail.com**
+- 💼 Portfolio - **https://anshulagrawal999.github.io/**
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
