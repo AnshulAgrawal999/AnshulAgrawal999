@@ -1,4 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Anshul Agrawal </h1>
+
+<h1 align="center"> Hi <img height="32px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />, I'm Anshul Agrawal </h1>
 
 <p align="center" >Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
 applications and RESTful APIs. Strong problem-solving skills along with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</p>
