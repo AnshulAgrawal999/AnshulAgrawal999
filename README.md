@@ -128,5 +128,5 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 
 <hr/>
 
-<em>If you're looking for a full stack Developer who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations.</em>
+<em>If you're looking for a full stack Developer who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations.</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 
