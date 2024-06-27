@@ -124,5 +124,7 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=react" alt="AnshulAgrawal999" style="height: 160px;" /></p>
 
+<br/><br/><br/><br/><br/><br/><br/>
 
+<em>If you're looking for a full stack Developer who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations.</em>
 
