@@ -124,6 +124,8 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=react" alt="AnshulAgrawal999" style="height: 160px;" /></p>
 
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshulAgrawal999&theme=dracula&show_icons=true&locale=en" style="height: 160px;" /></p>
+
 <br/><br/><br/><br/><br/><br/><br/>
 
 <hr/>
