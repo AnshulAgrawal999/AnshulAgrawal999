@@ -1,9 +1,8 @@
 
 <h1 align="center"> Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />, I'm Anshul Agrawal </h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=10000&center=true&vCenter=true&width=800&height=50&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;Computer+Science,student;Full+Stack+Web+Developer;Aspiring+Learner">
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=8000&center=true&vCenter=true&width=800&height=50&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;Computer+Science,student;Full+Stack+Web+Developer;Aspiring+Learner">
+
 
 <p align="center" >Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
 applications and RESTful APIs. Strong problem-solving skills along with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</p>
