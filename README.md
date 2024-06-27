@@ -2,8 +2,7 @@
 <h1 align="center"> Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />, I'm Anshul Agrawal </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Computer+Science,student;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=700&height=60">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=10000&center=true&vCenter=true&width=800&height=50&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;Computer+Science,student;Full+Stack+Web+Developer;Aspiring+Learner">
 </h1>
 
 <p align="center" >Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
