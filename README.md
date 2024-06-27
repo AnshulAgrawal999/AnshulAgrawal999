@@ -118,11 +118,11 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 
 <h2 align="left"> 📊 GitHub Stats </h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en&theme=chartreuse-dark" alt="AnshulAgrawal999" style="height: 160px;" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=AnshulAgrawal999&count_private=true&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=10" alt="Github stats" style="height: 160px;" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&theme=chartreuse-dark" alt="AnshulAgrawal999" style="height: 160px;" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&theme=chartreuse-dark&border_radius=10" alt="Streak stats" style="height: 160px;" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AnshulAgrawal999" style="height: 160px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=10" alt="Top Languages" style="height: 160px;" />
 
 <br/><br/><br/><br/><br/><br/><br/>
 ##
