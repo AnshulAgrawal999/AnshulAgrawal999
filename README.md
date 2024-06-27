@@ -117,14 +117,12 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 </table>
 
 <h2 align="left"> 📊 GitHub Stats </h2>
- 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshulAgrawal999&theme=dracula&show_icons=true&locale=en" style="height: 160px;" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en&theme=react" alt="AnshulAgrawal999" style="height: 160px;" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en&theme=chartreuse-dark" alt="AnshulAgrawal999" style="height: 160px;" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&theme=react" alt="AnshulAgrawal999" style="height: 160px;" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulAgrawal999&theme=chartreuse-dark" alt="AnshulAgrawal999" style="height: 160px;" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=react" alt="AnshulAgrawal999" style="height: 160px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AnshulAgrawal999" style="height: 160px;" />
 
 <br/><br/><br/><br/><br/><br/><br/>
 ##
