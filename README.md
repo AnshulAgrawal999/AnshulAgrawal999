@@ -19,6 +19,17 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongodb,html,css,react,redux,c" />
+</div>
+
+<h2 align="left">🛠️ Tech Tools</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,postman,codepen" /><br>
+</div>
+
 <h2 align="left"> 💻 Tech Stack</h2>
 <table align="center">
   <tbody>
