@@ -117,7 +117,8 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 </table>
 
 <h2 align="left"> 📊 GitHub Stats </h2>
-
+<div>
+ 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshulAgrawal999&theme=dracula&show_icons=true&locale=en" style="height: 160px;" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshulAgrawal999&show_icons=true&locale=en&theme=react" alt="AnshulAgrawal999" style="height: 160px;" />
@@ -126,7 +127,9 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=react" alt="AnshulAgrawal999" style="height: 160px;" />
 
+</div>
+
 ##
 
-<p><em>If you're looking for a full stack Developer who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations.</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></p>
+<div><em>If you're looking for a full stack Developer who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations.</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></div>
 
