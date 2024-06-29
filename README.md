@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=8000&color=FF0090&center=true&vCenter=true&width=800&height=50&lines=A+Full+Stack+Web+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
-<img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=8000&color=FF0090&center=true&vCenter=true&width=800&height=50&lines=A+Full+Stack+Web+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
+<img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=8000&color=90EE90&center=true&vCenter=true&width=800&height=50&lines=A+Full+Stack+Web+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
 
 <p align="center" >Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
