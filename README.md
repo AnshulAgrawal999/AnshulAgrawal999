@@ -80,7 +80,7 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
       </td>
      <td width="20%" align="center">
         <a href="https://redux.js.org/">
-          <span>React</span> <br/> <br/>
+          <span>Redux</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=redux" />
         </a>
       </td>
@@ -101,11 +101,11 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 </table>
 
 
-<h2 align="left">🛠️ Tech Tools</h2>
+<h2 align="left"> 🛠️ Tech Tools </h2>
 <table align="center">
   <tbody>
-    <tr valign="top">
-     <td width="20%" align="center">
+   <tr valign="top">
+    <td width="20%" align="center">
         <a href="https://code.visualstudio.com/">
           <span>VS Code</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=vscode" />
@@ -135,9 +135,36 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
           <img src="https://skillicons.dev/icons?i=npm" />
         </a>
       </td>
+    </tr> 
+    <tr>
+      <td width="20%" align="center">
+        <a href="https://www.netlify.app/">
+          <span>Netlify</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=netlify" />
+        </a>
+      </td>
+      <td width="20%" align="center">
+        <a href="https://vitejs.dev/">
+          <span>Vite</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=vite" />
+        </a>
+      </td>
+     <td width="20%" align="center">
+        <a href="https://www.notion.so/">
+          <span>Notion</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=notion" />
+        </a>
+      </td>
+     <td width="20%" align="center">
+        <a href="https://codepen.io/">
+          <span>CodePen</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=codepen" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 <h2 align="left"> 📊 GitHub Stats </h2>
 
