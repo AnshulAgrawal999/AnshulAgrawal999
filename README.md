@@ -20,16 +20,6 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,expressjs,mongodb,html,css,react,redux,c,cpp" />
-</div>
-
-<h2 align="left">🛠️ Tech Tools</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,notion,vite,netlify,codepen" />
-</div>
-
 <h2 align="left"> 💻 Tech Stack</h2>
 <table align="center">
   <tbody>
@@ -123,7 +113,7 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
           <img src="https://skillicons.dev/icons?i=github" />
         </a>
       </td>
-     <td width="25%" align="center">
+     <td width="20%" align="center">
         <a href="https://www.getpostman.com/">
           <span>Postman</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=postman" />
@@ -147,6 +137,15 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
         <a href="https://vitejs.dev/">
           <span>Vite</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=vite" />
+        </a>
+      </td>
+     <td width="20%" align="center">
+        <a href="https://render.com/">
+          <span>Render</span><br /><br />
+          <img
+            height="64px"
+            src="https://media.licdn.com/dms/image/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/0/1702595267620/renderco_logo?e=1727913600&v=beta&t=tLSoyL_2kP2n3tj-q3kynnGm3-hPMK0A-fufZW-XHuE" alt="Render Logo"
+          />
         </a>
       </td>
      <td width="20%" align="center">
