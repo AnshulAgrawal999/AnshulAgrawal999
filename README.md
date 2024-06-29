@@ -27,7 +27,7 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 <h2 align="left">🛠️ Tech Tools</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,postman,codepen,github,notion,npm,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,notion,vite,netlify,codepen" />
 </div>
 
 <h2 align="left"> 💻 Tech Stack</h2>
@@ -36,31 +36,31 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
    <tr valign="top">
     <td width="20%" align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <span>JavaScript</span><br /><br />
+          <span>JavaScript</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=javascript" />
         </a>
       </td>
       <td width="20%" align="center">
         <a href="https://nodejs.org/">
-          <span>Node.js</span><br /><br />
+          <span>Node.js</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=nodejs" />
         </a>
       </td>
       <td width="20%" align="center">
         <a href="http://expressjs.com/">
-          <span>Express.js</span><br /><br />
+          <span>Express.js</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=expressjs" />
         </a>
       </td>
       <td width="20%" align="center">
         <a href="https://www.mongodb.org/">
-          <span>MongoDB</span><br /><br />
+          <span>MongoDB</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=mongodb" />
         </a>
       </td>
       <td width="20%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <span>HTML5</span><br /> <br />
+          <span>HTML5</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=html" />
         </a>
       </td>
@@ -68,31 +68,31 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
     <tr>
       <td width="20%" align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <span>CSS</span><br/> <br/>
+          <span>CSS</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=css" />
         </a>
       </td>
       <td width="20%" align="center">
         <a href="https://react.dev/">
-          <span>React</span><br /><br />
+          <span>React</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=react" />
         </a>
       </td>
      <td width="20%" align="center">
         <a href="https://redux.js.org/">
-          <span>React</span><br /><br />
+          <span>React</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=redux" />
         </a>
       </td>
      <td width="20%" align="center">
         <a href="https://www.geeksforgeeks.org/c-programming-language/">
-          <span>C</span><br /><br />
+          <span>C</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=c" />
         </a>
       </td>
      <td width="20%" align="center">
         <a href="https://www.geeksforgeeks.org/c-plus-plus/">
-          <span>C++</span><br /><br />
+          <span>C++</span> <br/> <br/>
           <img src="https://skillicons.dev/icons?i=cpp" />
         </a>
       </td>
@@ -105,34 +105,34 @@ applications and RESTful APIs. Strong problem-solving skills along with a solid 
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://git-scm.com/">
-          <span>Git</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/git-icon.svg"
-          />
+     <td width="20%" align="center">
+        <a href="https://code.visualstudio.com/">
+          <span>VS Code</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=vscode" />
         </a>
       </td>
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://code.visualstudio.com/">
-          <span>VS Code</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
+      <td width="20%" align="center">
+        <a href="https://git-scm.com/">
+          <span>Git</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=git" />
         </a>
       </td>
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://www.netlify.com/">
-          <span>Netlify</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+      <td width="20%" align="center">
+        <a href="https://github.com/">
+          <span>GitHub</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=github" />
         </a>
       </td>
-      <td width="25%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
-          <span>Postman</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/postman-icon.svg"
-          />
+     <td width="25%" align="center">
+        <a href="https://www.getpostman.com/">
+          <span>Postman</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=postman" />
+        </a>
+      </td>
+      <td width="20%" align="center">
+        <a href="https://www.npmjs.com/">
+          <span>NPM</span> <br/> <br/>
+          <img src="https://skillicons.dev/icons?i=npm" />
         </a>
       </td>
     </tr>
