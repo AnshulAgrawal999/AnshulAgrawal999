@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=10000&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=32&lines=A+Full+Stack+Web+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
 
-<p align="center" >Highly Passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
+<p align="center" >Highly passionate Full Stack Web developer skilled in MERN stack. Experienced in designing and maintaining high-quality server-side
 applications and RESTful APIs. Strong problem-solving skills along with a solid foundation in data structures and algorithms. Excellent communicator and collaborator, eager to contribute to a dynamic working environment.✨</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
