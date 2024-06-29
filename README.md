@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />, I'm Anshul Agrawal </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=8000&color=FF0000&center=true&vCenter=true&repeat=false&width=800&height=50&lines=Hi%2C+I'm+Anshul+Agrawal">
+<img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=8000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=800&height=50&lines=Hi%2C+I'm+Anshul+Agrawal">
 
 <img src="https://readme-typing-svg.herokuapp.com/?size=20&duration=8000&pause=2000&color=90EE90&center=true&vCenter=true&width=800&height=50&lines=A+Full+Stack+Web+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
