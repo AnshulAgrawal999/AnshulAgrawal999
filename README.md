@@ -12,7 +12,7 @@
  
 - ⚡ I'm interested in **Software Development, Software Testing, AI, Machine Learning, Cybersecurity**
 
-- 📧 Email - **anshulagr799@gmail.com**
+- 📧📫 Email - **anshulagr799@gmail.com**
 
 - 💼 Portfolio - **https://anshulagrawal999.github.io/**
 
