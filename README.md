@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
  
-- ⚡ I'm also interested in **AI, Machine Learning, Cybersecurity, Blockchain technology & IOT**
+- ⚡ I'm interested in **Software Development, Software Testing, AI, Machine Learning, Cybersecurity**
 
 - 📧 Email - **anshulagr799@gmail.com**
 
