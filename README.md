@@ -18,6 +18,7 @@
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
+  <a href="https://www.linkedin.com/in/anshul-agrawal-403724209/"> <img  src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
 <h2 align="left"> 💻 Tech Stack</h2>
 <table align="center">
