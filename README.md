@@ -136,7 +136,7 @@
       <td width="20%" align="center">
         <a href="https://vitejs.dev/">
           <span>Vite</span> <br/> <br/>
-          <img src="https://skillicons.dev/icons?i=vite" />
+          <img height="64px" src="https://skillicons.dev/icons?i=vite" />
         </a>
       </td>
      <td width="20%" align="center">
