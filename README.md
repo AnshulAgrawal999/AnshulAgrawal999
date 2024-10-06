@@ -12,13 +12,17 @@
  
 - ⚡ I'm interested in **Software Development, Software Testing, AI, Machine Learning, Cybersecurity**
 
+- 😃 I love Sports.
+
 - 📧📫 Email - **anshulagr799@gmail.com**
 
 - 💼 Portfolio - **https://anshulagrawal999.github.io/**
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
-  <a href="https://www.linkedin.com/in/anshul-agrawal-403724209/"> <img  src="https://skillicons.dev/icons?i=linkedin" /> </a>
+  
+
+<a href="https://www.linkedin.com/in/anshul-agrawal-403724209/"> <img  src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
 <h2 align="left"> 💻 Tech Stack</h2>
 <table align="center">
@@ -174,6 +178,13 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshulAgrawal999&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=10" alt="Top Languages" style="height: 160px;" />
 
 <br/><br/><br/><br/><br/><br/><br/>
+
+<img align="left" src="https://komarev.com/ghpvc/?username=AnshulAgrawal999&label=Profile%20views&color=0e75b6&style=flat&theme=chartreuse-dark" alt="Visitor Count" /> 
+
+<!-- <img align="center" src="https://profile-counter.glitch.me/AnshulAgrawal999/count.svg" alt="Visitor Count" /> -->
+
+<br/>
+
 ##
 
 <div><em>If you're looking for a full stack Developer who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations.</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></div>
