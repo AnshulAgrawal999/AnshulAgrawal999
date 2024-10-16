@@ -144,22 +144,13 @@
         </a>
       </td>
      <td width="20%" align="center">
-        <a href="https://render.com/">
-          <span>Render</span><br /><br />
-          <img
-            height="64px"
-            src="https://x.com/render/photo" alt="Render Logo"
-          />
-        </a>
-      </td>
-     <td width="20%" align="center">
         <a href="https://codepen.io/">
           <span>CodePen</span> <br/> <br/>
           <img height="64px" src="https://skillicons.dev/icons?i=codepen" />
         </a>
       </td>
      <td width="20%" align="center">
-        <a href="https://www.notion.so/">
+        <a href="https://codesandbox.io/">
           <span>CodeSandbox</span> <br/> <br/>
           <img height="64px" src="https://avatars.githubusercontent.com/u/32880324?s=200&v=4" />
         </a>
