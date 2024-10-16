@@ -148,7 +148,7 @@
           <span>Render</span><br /><br />
           <img
             height="64px"
-            src="https://media.licdn.com/dms/image/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/0/1702595267620/renderco_logo?e=1727913600&v=beta&t=tLSoyL_2kP2n3tj-q3kynnGm3-hPMK0A-fufZW-XHuE" alt="Render Logo"
+            src="https://x.com/render/photo" alt="Render Logo"
           />
         </a>
       </td>
