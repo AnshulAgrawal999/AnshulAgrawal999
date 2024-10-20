@@ -9,8 +9,6 @@ server-side applications and RESTful APIs. Proficient in JavaScript, Node.js, Ex
 MongoDB and Git with a solid foundation in data structures and algorithms. Excellent communicator and collaborator. Proactive and self-driven.</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
-
-- 🌱 I’m currently learning **DSA**
  
 - ⚡ I'm interested in **Software Development, Software Testing, AI, Machine Learning, Cybersecurity**
 
