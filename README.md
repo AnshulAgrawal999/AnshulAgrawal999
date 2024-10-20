@@ -1,12 +1,12 @@
 
 <h1 align="center"> Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />, I'm Anshul Agrawal </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=10000&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=32&lines=A+Nodejs+Backend +Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
+<img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=10000&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=32&lines=A+Nodejs+Backend+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
 
 <p align="center" >Highly passionate Node.js Backend Developer adept at using Express.js and related frameworks. Experienced in designing and maintaining high-performance
 server-side applications and RESTful APIs. Proficient in JavaScript, Node.js, Express.js,
-MongoDB and Git with a solid foundation in data structures and algorithms. Excellent communicator and collaborator. Proactive and self-driven. I'm always open to new opportunities and collaborations.</p>
+MongoDB and Git with a solid foundation in data structures and algorithms. Excellent communicator and collaborator. Proactive and self-driven.</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
 
