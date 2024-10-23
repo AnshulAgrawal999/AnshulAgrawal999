@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />, I'm Anshul Agrawal </h1>
+<h1 align="center"> Hi there!<img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />, I'm Anshul Agrawal </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=10000&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=32&lines=A+Node.js+Backend+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
