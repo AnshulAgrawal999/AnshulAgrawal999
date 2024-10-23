@@ -4,9 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=10000&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=32&lines=A+Node.js+Backend+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
 
-<p align="center" >Highly passionate Node.js Backend Developer adept at using Express.js and related frameworks. Experienced in designing and maintaining high-performance
-server-side applications and RESTful APIs. Proficient in JavaScript, Node.js, Express.js,
-MongoDB and Git with a solid foundation in data structures and algorithms. Excellent communicator and collaborator. Proactive and self-driven.</p>
+<p align="center" > Highly skilled Node.js Developer adept in backend development using Express.js and related frameworks. Experienced in designing and maintaining high-performance server-side applications and RESTful APIs. Proficient in JavaScript, Node.js, Express.js, MongoDB, and Git, with a solid foundation in data structures and algorithms. Highly passionate about building robust, scalable solutions. Excellent communicator and collaborator committed to seamless integration across teams. Proactive and self-driven.</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
  
@@ -178,5 +176,5 @@ MongoDB and Git with a solid foundation in data structures and algorithms. Excel
 
 ##
 
-<div><em>If you're looking for a Node.js Backend who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations.</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></div>
+<div><em> If you're looking for a Node.js Backend who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations. Feel free to email me at anshulagr799@gmail.com. </em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></div>
 
