@@ -176,5 +176,5 @@
 
 ##
 
-<div><em> If you're looking for a Node.js Backend who brings passion to every project, let's connect! I'm always open to new opportunities and collaborations. Feel free to email me at anshulagr799@gmail.com. </em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></div>
+<div><em> Feel free to email me at anshulagr799@gmail.com if you have any suggestions or collaboration ideas. I'm always open to new opportunities and collaborations. </em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /></div>
 
