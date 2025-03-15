@@ -45,6 +45,12 @@
         </a>
       </td>
       <td width="20%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Nest.js</span> <br/> <br/>
+          <img height="64px" src="https://skillicons.dev/icons?i=nestjs" />
+        </a>
+      </td>
+      <td width="20%" align="center">
         <a href="https://www.mongodb.org/">
           <span>MongoDB</span> <br/> <br/>
           <img height="64px" src="https://skillicons.dev/icons?i=mongodb" />
@@ -68,6 +74,12 @@
         <a href="https://react.dev/">
           <span>React</span> <br/> <br/>
           <img height="64px" src="https://skillicons.dev/icons?i=react" />
+        </a>
+      </td>
+     <td width="20%" align="center">
+        <a href="http://expressjs.com/">
+          <span>Next.js</span> <br/> <br/>
+          <img height="64px" src="https://skillicons.dev/icons?i=nextjs" />
         </a>
       </td>
      <td width="20%" align="center">
