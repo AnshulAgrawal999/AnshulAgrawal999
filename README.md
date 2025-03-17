@@ -102,6 +102,12 @@
           <img height="64px" src="https://skillicons.dev/icons?i=cpp" />
         </a>
       </td>
+      <td width="20%" align="center">
+        <a href="https://www.geeksforgeeks.org/c-plus-plus/">
+          <span>Go</span> <br/> <br/>
+          <img height="64px" src="https://skillicons.dev/icons?i=go" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
