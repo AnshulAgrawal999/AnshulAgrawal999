@@ -56,15 +56,15 @@
           <img height="64px" src="https://skillicons.dev/icons?i=mongodb" />
         </a>
       </td>
+    </tr> 
+    <tr>
       <td width="20%" align="center">
         <a style="font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
           <span>HTML5</span> <br/> <br/>
           <img height="64px" src="https://skillicons.dev/icons?i=html" />
         </a>
       </td>
-    </tr> 
-    <tr>
-      <td width="20%" align="center">
+       <td width="20%" align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
           <span>CSS</span> <br/> <br/>
           <img height="64px" src="https://skillicons.dev/icons?i=css" />
@@ -88,6 +88,8 @@
           <img height="64px" src="https://skillicons.dev/icons?i=redux" />
         </a>
       </td>
+    </tr> 
+    <tr>
      <td width="20%" align="center">
         <a href="https://www.geeksforgeeks.org/c-programming-language/">
           <span>C</span> <br/> <br/>
