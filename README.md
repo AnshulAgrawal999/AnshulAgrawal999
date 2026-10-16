@@ -4,11 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=10000&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=32&lines=A+Node.js+Backend+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
 
-<p align="center" > Highly skilled Developer adept in frontend and backend development. Experienced in designing and maintaining high-performance server-side applications and RESTful APIs. Proficient in Git with a solid foundation in data structures and algorithms. Highly passionate about building robust, scalable solutions. Excellent communicator and collaborator committed to seamless integration across teams.✨</p>
+<p align="center" > Highly skilled Developer adept in frontend and backend development. Experienced in designing and maintaining high-performance server-side applications. Proficient in Git with a solid foundation in data structures and algorithms. Highly passionate about building robust, scalable solutions. Excellent communicator and collaborator, committed to seamless cross-team integration.✨</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
  
-- ⚡ I'm interested in **Software Development, Software Testing, AI, Machine Learning, Cybersecurity**
+- ⚡ I'm interested in **Software Development, AI, Machine Learning, Cybersecurity**
 
 - 😃 I love Sports.
 
@@ -24,70 +24,6 @@
 <h2 align="left"> 💻 Tech Stack</h2>
 <table align="center">
   <tbody>
-   <tr valign="top">
-    <td width="20%" align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <span>JavaScript</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=javascript" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://nodejs.org/">
-          <span>Node.js</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=nodejs" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="http://expressjs.com/">
-          <span>Express.js</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=expressjs" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="http://expressjs.com/">
-          <span>Nest.js</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=nestjs" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://www.mongodb.org/">
-          <span>MongoDB</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=mongodb" />
-        </a>
-      </td>
-    </tr> 
-    <tr>
-      <td width="20%" align="center">
-        <a style="font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <span>HTML5</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=html" />
-        </a>
-      </td>
-       <td width="20%" align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <span>CSS</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=css" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://react.dev/">
-          <span>React</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=react" />
-        </a>
-      </td>
-     <td width="20%" align="center">
-        <a href="http://expressjs.com/">
-          <span>Next.js</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=nextjs" />
-        </a>
-      </td>
-     <td width="20%" align="center">
-        <a href="https://redux.js.org/">
-          <span>Redux</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=redux" />
-        </a>
-      </td>
-    </tr> 
     <tr>
      <td width="20%" align="center">
         <a href="https://www.geeksforgeeks.org/c-programming-language/">
