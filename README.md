@@ -5,8 +5,6 @@
 
 
 <p align="center" > Highly skilled Developer adept in frontend and backend development. Experienced in designing and maintaining high-performance server-side applications. Proficient in Git with a solid foundation in data structures and algorithms. Highly passionate about building robust, scalable solutions. Excellent communicator and collaborator, committed to seamless cross-team integration.</p>
-
-- 🌍 I'm based in **Jabalpur, Madhya Pradesh**
  
 - ⚡ I'm interested in **Software Development, AI, Machine Learning, Cybersecurity**
 
