@@ -18,9 +18,6 @@
 
 - 👨‍💻 LinkedIn - **https://www.linkedin.com/in/anshul-agrawal-403724209/**
 
-
-<a href="https://www.linkedin.com/in/anshul-agrawal-403724209/"> <img  src="https://skillicons.dev/icons?i=linkedin" /> </a>
-
 <h2 align="left"> 💻 Tech Stack</h2>
 <table align="center">
   <tbody>
@@ -74,38 +71,6 @@
         <a href="https://www.getpostman.com/">
           <span>Postman</span> <br/> <br/>
           <img height="64px" src="https://skillicons.dev/icons?i=postman" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://www.npmjs.com/">
-          <span>NPM</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=npm" />
-        </a>
-      </td>
-    </tr> 
-    <tr>
-      <td width="20%" align="center">
-        <a href="https://www.netlify.app/">
-          <span>Netlify</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=netlify" />
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://vitejs.dev/">
-          <span>Vite</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=vite" />
-        </a>
-      </td>
-     <td width="20%" align="center">
-        <a href="https://codepen.io/">
-          <span>CodePen</span> <br/> <br/>
-          <img height="64px" src="https://skillicons.dev/icons?i=codepen" />
-        </a>
-      </td>
-     <td width="20%" align="center">
-        <a href="https://codesandbox.io/">
-          <span>CodeSandbox</span> <br/> <br/>
-          <img height="64px" src="https://avatars.githubusercontent.com/u/32880324?s=200&v=4" />
         </a>
       </td>
     </tr>
