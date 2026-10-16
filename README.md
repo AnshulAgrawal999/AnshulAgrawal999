@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?size=24&duration=10000&pause=1000&color=90EE90&center=true&vCenter=true&width=800&height=32&lines=Full+Stack+Developer;A+Problem+Solver;An+Innovative+Thinker;A+Team+Player">
 
 
-<p align="center" > Highly skilled Developer adept in frontend and backend development. Experienced in designing and maintaining high-performance server-side applications. Proficient in Git with a solid foundation in data structures and algorithms. Highly passionate about building robust, scalable solutions. Excellent communicator and collaborator, committed to seamless cross-team integration.✨</p>
+<p align="center" > Highly skilled Developer adept in frontend and backend development. Experienced in designing and maintaining high-performance server-side applications. Proficient in Git with a solid foundation in data structures and algorithms. Highly passionate about building robust, scalable solutions. Excellent communicator and collaborator, committed to seamless cross-team integration.</p>
 
 - 🌍 I'm based in **Jabalpur, Madhya Pradesh**
  
